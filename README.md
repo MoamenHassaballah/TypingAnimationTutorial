@@ -2,7 +2,7 @@
 Typing Animation Tutorial for Android using Kotlin language
 
 ## Preview
-![TypingAnimation](https://user-images.githubusercontent.com/43247788/210151853-d873efba-fe09-4ed3-b2ba-6f6c9c663449.gif)
+![ezgif-5-630ebb26b8](https://user-images.githubusercontent.com/43247788/210152138-d1e0e1da-b58a-4b80-8b57-e3dceba62cff.gif)
 
 ## Tutorial
 Watch full tutorial on [Youtube](https://www.youtube.com/watch?v=bOS4E_vVI5w)
